@@ -81,3 +81,9 @@ form {
 .hero .container .btn:hover {
   transform: scale(1.03);
 }
+
+@media (max-width: 445px){
+  .navegation{
+    flex: 1;
+  }
+}
