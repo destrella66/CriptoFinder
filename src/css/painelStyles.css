@@ -8,6 +8,7 @@ header {
   padding: 24px 32px;
   background: #c71452;
   border-radius: 0 0px 60px 60px;
+  flex-wrap: wrap;
 }
 header .logoBox,
 header .navegation {
