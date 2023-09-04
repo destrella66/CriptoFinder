@@ -83,7 +83,7 @@ form {
 }
 
 @media (max-width: 445px){
-  .navegation{
+  .navigation{
     flex: 1;
   }
 }
