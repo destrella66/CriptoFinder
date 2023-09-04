@@ -8,21 +8,22 @@ header {
   padding: 24px 32px;
   background: #c71452;
   border-radius: 0 0px 60px 60px;
+  flex-wrap: wrap;
 }
 header .logoBox,
-header .navegation {
+header .navigation {
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
-header .navegation li a i {
+header .navigation li a i {
   transition: 0.3s;
 }
-header .navegation li a i:hover {
+header .navigation li a i:hover {
   transform: scale(1.1);
 }
 
-header .navegation li a i:active {
+header .navigation li a i:active {
   transform: scale(0.8);
 }
 header .logoBox .logo {
@@ -37,7 +38,7 @@ header .logoBox i {
   color: #fafafa;
 }
 
-.navegation li a i {
+.navigation li a i {
   color: #fafafa;
   font-size: 36px;
   margin: 0 10px;
