@@ -1,11 +1,11 @@
-package com.cryptofirer.apicryptofirer.client;
+package com.cryptofinder.apicryptofinder.client;
 
 import org.springframework.http.MediaType;
 import org.springframework.stereotype.Service;
 import org.springframework.web.reactive.function.client.WebClient;
 
-import com.cryptofirer.apicryptofirer.response.CryptocurrencyResponse;
-import com.cryptofirer.apicryptofirer.response.ListOfCryptocurrencyResponse;
+import com.cryptofinder.apicryptofinder.response.CryptocurrencyResponse;
+import com.cryptofinder.apicryptofinder.response.ListOfCryptocurrencyResponse;
 
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;

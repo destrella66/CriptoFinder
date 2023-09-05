@@ -1,4 +1,4 @@
-package com.cryptofirer.apicryptofirer;
+package com.cryptofinder.apicryptofinder;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.cryptofirer.apicryptofirer.response;
+package com.cryptofinder.apicryptofinder.response;
 
 import java.util.List;
 
