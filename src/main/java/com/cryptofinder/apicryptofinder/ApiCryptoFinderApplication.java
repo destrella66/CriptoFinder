@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ApiCryptoFirerApplication {
+public class ApiCryptoFinderApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ApiCryptoFirerApplication.class, args);
+		SpringApplication.run(ApiCryptoFinderApplication.class, args);
 	}
 
 }
